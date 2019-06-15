@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ImagePicker</string>
+
+    <string name="tab_gallery">Gallery</string>
+    <string name="tab_photo">Photo</string>
+    <string name="tab_video">Video</string>
+
+    <string name="bt_next">Next</string>
+
+    <string name="camera_permission_confirmation">This app demonstrates the usage of CameraView. In order to do that, it needs permission to access camera.</string>
+    <string name="camera_permission_not_granted">Camera app cannot do anything without camera permission.</string>
+    <string name="picture_taken">Picture taken</string>
+    <string name="switch_flash">Switch flash</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="flash_auto">Flash auto</string>
+    <string name="flash_off">Flash off</string>
+    <string name="flash_on">Flash on</string>
+
+    <!-- ICON -->
+    <string name="icon_check" translatable="false">d</string>
+    <string name="icon_option_h" translatable="false">l</string>
+    <string name="icon_option_v" translatable="false">m</string>
+    <string name="icon_social" translatable="false">n</string>
+    <string name="icon_email" translatable="false">I</string>
+    <string name="icon_back_md" translatable="false">Z</string>
+    <string name="icon_close_md" translatable="false">0</string>
+    <string name="icon_share_md" translatable="false">1</string>
+    <string name="icon_circle_error" translatable="false">5</string>
+    <string name="icon_droid" translatable="false">7</string>
+
+
+
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+</resources>
